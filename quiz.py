@@ -123,7 +123,7 @@ questions = {
 
 options = [["A. Dr Ram Baran Yadav", "B. Bidhya Devi Bhandari", "C. Bhimsen Thapa", "D. Jung Bahadur Rana"],
            ["A. Delhi", "B. London", "C. Paris", "D. Tokyo"],
-           ["A. Dharan", "B. Kathmandu", "C. Pokahara", "D. Pokhara"],
+           ["A. Dharan", "B. Kathmandu", "C. Jhapa", "D. Pokhara"],
            ["A. Guido van Rossum", "B. Bill Gates",
                "C. Steve Jobs", "D. Linus Torvalds"],
            ["A. Barack Obama", "B. Joe Biden",
